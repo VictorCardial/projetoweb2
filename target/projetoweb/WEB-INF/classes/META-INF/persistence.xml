@@ -6,13 +6,14 @@
 		
 		<provider>org.hibernate.ejb.HibernatePersistence</provider>
 		
-		<class>br.gov.sp.fatec.produtora.entity.Pessoa</class>
-		<class>br.gov.sp.fatec.produtora.entity.Ator</class>
-		<class>br.gov.sp.fatec.produtora.entity.Duble</class>
-		<class>br.gov.sp.fatec.produtora.entity.Diretor</class>
-		<class>br.gov.sp.fatec.produtora.entity.Filmagem</class>
-		<class>br.gov.sp.fatec.produtora.entity.Filme</class>
-		<class>br.gov.sp.fatec.produtora.entity.Novela</class>
+		<class>br.gov.sp.fatec.projetoweb.entity.Pessoa</class>
+		<class>br.gov.sp.fatec.projetoweb.entity.Ator</class>
+		<class>br.gov.sp.fatec.projetoweb.entity.Duble</class>
+		<class>br.gov.sp.fatec.projetoweb.entity.Diretor</class>
+		<class>br.gov.sp.fatec.projetoweb.entity.Filmagem</class>
+		<class>br.gov.sp.fatec.projetoweb.entity.Filme</class>
+		<class>br.gov.sp.fatec.projetoweb.entity.Novela</class>
+		<class>br.gov.sp.fatec.projetoweb.entity.Usuario</class>
 		
 		<properties>
 			

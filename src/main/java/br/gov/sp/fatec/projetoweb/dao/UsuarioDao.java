@@ -67,7 +67,7 @@ public class UsuarioDao {
     }
          
     public List<Usuario> listaUsuarios() {
-        String consulta = "SELECT * FROM usr_usuario";
+        String consulta = "SELECT u FROM Usuario u";
         TypedQuery<Usuario> query = manager.createQuery(consulta, Usuario.class);
         return query.getResultList();
     }
