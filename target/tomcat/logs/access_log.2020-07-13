@@ -1,0 +1,5 @@
+127.0.0.1 - - [13/Jul/2020:12:00:39 +0000] "GET / HTTP/1.1" 404 - http-bio-8080-exec-1 0
+127.0.0.1 - - [13/Jul/2020:12:00:58 +0000] "GET /projetoweb/ator?id=2 HTTP/1.1" 500 4426 http-bio-8080-exec-3 2706
+127.0.0.1 - - [13/Jul/2020:12:00:58 +0000] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+127.0.0.1 - - [13/Jul/2020:12:01:04 +0000] "GET /projetoweb/main HTTP/1.1" 500 4408 http-bio-8080-exec-6 297
+127.0.0.1 - - [13/Jul/2020:12:01:20 +0000] "GET /projetoweb/ator?id=2 HTTP/1.1" 500 4426 http-bio-8080-exec-7 333
